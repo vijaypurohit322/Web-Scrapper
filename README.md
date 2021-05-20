@@ -1,5 +1,5 @@
 ### I'm writing this code for further reference.
-echo "# Web-Scrapper" >> README.md
+
 ```
 git init
 git add README.md
