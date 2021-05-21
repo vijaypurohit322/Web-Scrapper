@@ -1,4 +1,4 @@
-### I'm writing this code for further reference.
+### I'm writing this code for my reference.
 
 ```
 git init
