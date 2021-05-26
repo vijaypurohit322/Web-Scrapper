@@ -1,6 +1,6 @@
 ## I am building a web-scrapper that will do amazing things, so be updated and keep your eyes on it.
 
-To do so, find follow me link at bottom of this file.
+To do so, find `follow me` link at bottom of this file.
 ### I'm writing this code for my reference.
 
 `
